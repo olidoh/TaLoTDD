@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TaLo TDD</string>
+
+
+    <!-- SQL Befehle -->
+    <string name="sql_db_name">tdd.db</string>
+    <string name="sql_create_t_Liegenschaft">CREATE TABLE t_Liegenschaft (_id INTEGER PRIMARY KEY AUTOINCREMENT,
+                strLiegenschaft Varchar(32));</string>
+
+
+
+    <!-- Log -->
+    <string name="log">taloLogTag</string>
 </resources>
